@@ -1,0 +1,224 @@
+{
+    // IntelliSense를 사용하여 가능한 특성에 대해 알아보세요.
+    // 기존 특성에 대한 설명을 보려면 가리킵니다.
+    // 자세한 내용을 보려면 https://go.microsoft.com/fwlink/?linkid=830387을(를) 방문하세요.
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch bj1292",
+            "request": "launch",
+            "mainClass": "mathStudy.bj1292",
+            "projectName": "backjunSolve_2b27d1f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch bj10610",
+            "request": "launch",
+            "mainClass": "mathStudy.bj10610",
+            "projectName": "backjunSolve_2b27d1f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch bj4948",
+            "request": "launch",
+            "mainClass": "studyjava.bj4948",
+            "projectName": "backjunSolve_2b27d1f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch tree_study",
+            "request": "launch",
+            "mainClass": "studyjava.tree_study",
+            "projectName": "backjunSolve_2b27d1f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch bj12852_dp",
+            "request": "launch",
+            "mainClass": "studyjava.bj12852_dp",
+            "projectName": "backjunSolve_2b27d1f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch arrTest",
+            "request": "launch",
+            "mainClass": "arrTest",
+            "projectName": "backjunSolve_2b27d1f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch bj_1000",
+            "request": "launch",
+            "mainClass": "bj_1000",
+            "projectName": "backjunSolve_2b27d1f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch bj_10250",
+            "request": "launch",
+            "mainClass": "bj_10250",
+            "projectName": "backjunSolve_2b27d1f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch bj_1065",
+            "request": "launch",
+            "mainClass": "bj_1065",
+            "projectName": "backjunSolve_2b27d1f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch bj_10757",
+            "request": "launch",
+            "mainClass": "bj_10757",
+            "projectName": "backjunSolve_2b27d1f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch bj_10871",
+            "request": "launch",
+            "mainClass": "bj_10871",
+            "projectName": "backjunSolve_2b27d1f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch bj_10926",
+            "request": "launch",
+            "mainClass": "bj_10926",
+            "projectName": "backjunSolve_2b27d1f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch bj_10952",
+            "request": "launch",
+            "mainClass": "bj_10952",
+            "projectName": "backjunSolve_2b27d1f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch bj_1110",
+            "request": "launch",
+            "mainClass": "bj_1110",
+            "projectName": "backjunSolve_2b27d1f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch bj_1157",
+            "request": "launch",
+            "mainClass": "bj_1157",
+            "projectName": "backjunSolve_2b27d1f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch bj_1193",
+            "request": "launch",
+            "mainClass": "bj_1193",
+            "projectName": "backjunSolve_2b27d1f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch bj_1712",
+            "request": "launch",
+            "mainClass": "bj_1712",
+            "projectName": "backjunSolve_2b27d1f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch bj_18108",
+            "request": "launch",
+            "mainClass": "bj_18108",
+            "projectName": "backjunSolve_2b27d1f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch bj_2292",
+            "request": "launch",
+            "mainClass": "bj_2292",
+            "projectName": "backjunSolve_2b27d1f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch bj_2408",
+            "request": "launch",
+            "mainClass": "bj_2408",
+            "projectName": "backjunSolve_2b27d1f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch bj_2741",
+            "request": "launch",
+            "mainClass": "bj_2741",
+            "projectName": "backjunSolve_2b27d1f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch bj_2753",
+            "request": "launch",
+            "mainClass": "bj_2753",
+            "projectName": "backjunSolve_2b27d1f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch bj_2775",
+            "request": "launch",
+            "mainClass": "bj_2775",
+            "projectName": "backjunSolve_2b27d1f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch bj_2839",
+            "request": "launch",
+            "mainClass": "bj_2839",
+            "projectName": "backjunSolve_2b27d1f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch bj_2869",
+            "request": "launch",
+            "mainClass": "bj_2869",
+            "projectName": "backjunSolve_2b27d1f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch bj_2884",
+            "request": "launch",
+            "mainClass": "bj_2884",
+            "projectName": "backjunSolve_2b27d1f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch bj_2908",
+            "request": "launch",
+            "mainClass": "bj_2908",
+            "projectName": "backjunSolve_2b27d1f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch bj_4344",
+            "request": "launch",
+            "mainClass": "bj_4344",
+            "projectName": "backjunSolve_2b27d1f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch bj_4673",
+            "request": "launch",
+            "mainClass": "bj_4673",
+            "projectName": "backjunSolve_2b27d1f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch bj_5622",
+            "request": "launch",
+            "mainClass": "bj_5622",
+            "projectName": "backjunSolve_2b27d1f7"
+        }
+    ]
+}
